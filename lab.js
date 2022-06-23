@@ -168,12 +168,9 @@ while (z > 0) {
    z--
   }
 
+console.log(5 ** 2)
 
 
 
-//  while (z > 0) {
-//     console.log(z)
-//     z--
-//   }
  
 
